@@ -6,7 +6,7 @@ for a quick introduction and diving right into the fun!
 
 You can browse all colab notebooks by looking in the notebooks/ folder. Here are some good starters:
 
-notebooks/**intro_to_python.ipynb**
+notebooks/**intro_to_python_and_notebooks.ipynb**
 * For a quick-start tutorial of python and notebooks
 
 notebooks/**scientific_computing.ipynb**
